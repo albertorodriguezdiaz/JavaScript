@@ -59,4 +59,5 @@ drago.golpe(rocky);
 
 entrenador.curar(rocky);
 
+entrenador.curar(drago);
 rocky.golpe(drago);
